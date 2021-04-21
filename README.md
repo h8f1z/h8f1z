@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello World 👋🌏 (from Hafiz)
+Software Developer (as profession and hobby). Experimenting is ON !
 
-<!--
-**h8f1z/h8f1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Here's a few things I've made:  
+[![Breather](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/developer?id=Ahmed_Hafiz)  
+[📝 My Todo List](https://github.com/h8f1z/MyToDoList)  
 
-Here are some ideas to get you started:
+Currently working with:
+- dotnet
+- Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also learning:
+- React
+- Rust
+- Go
+
+
+Reach me on Twitter 🐤 [@ahmadhHafz](https://twitter.com/ahmadhHafz)
