@@ -6,8 +6,9 @@ Software Developer (as profession and hobby). Experimenting is ON !
 [📝 My Todo List](https://github.com/h8f1z/MyToDoList)  
 
 Currently working with:
-- dotnet
-- Flutter
+- dotnet (C#)
+- Flutter (Dart)
+- Vue (js)
 
 Also learning:
 - React
