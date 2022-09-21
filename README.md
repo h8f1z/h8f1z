@@ -7,13 +7,10 @@ Software Developer (as profession and hobby). Experimenting is ON !
 
 Currently working with:
 - dotnet (C#)
-- Flutter (Dart)
 - Vue (js)
+- Flutter (Dart)
 
 Also learning:
 - React
 - Rust
 - Go
-
-
-Reach me on Twitter 🐤 [@ahmadhHafz](https://twitter.com/ahmadhHafz)
