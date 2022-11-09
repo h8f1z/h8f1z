@@ -1,16 +1,14 @@
-### Hello World 👋🌏 (from Hafiz)
-Software Developer (as profession and hobby). Experimenting is ON !
+### Hello World 👋🌏 (from Haafiz)
 
-#### Here's a few things I've made:  
-[![Breather](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/developer?id=Ahmed_Hafiz)  
-[📝 My Todo List](https://github.com/h8f1z/MyToDoList)  
+Software Developer (as profession and hobby). 
+Experimenting is ON !!
 
 Currently working with:
-- dotnet (C#)
-- Vue (js)
-- Flutter (Dart)
+💜 dotnet (C#)
+💚 Vue/Nuxtjs (js)
+💙 Flutter (Dart)
+💙 Go
 
 Also learning:
-- React
-- Rust
-- Go
+🖤 React/Nextjs
+🦀 Rust
