@@ -3,12 +3,12 @@
 Software Developer (as profession and hobby). 
 Experimenting is ON !!
 
-Currently working with:
-💜 dotnet (C#)
-💚 Vue/Nuxtjs (js)
-💙 Flutter (Dart)
-💙 Go
+Currently working with:  
+💜 dotnet (C#)  
+💚 Vue/Nuxtjs (js)  
+💙 Flutter (Dart)  
+💙 Go  
 
-Also learning:
-🖤 React/Nextjs
-🦀 Rust
+Also learning:  
+🖤 React/Nextjs  
+🦀 Rust  
